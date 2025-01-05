@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nduyt\\source\\repos\\testflights\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18DF1EEA-EAC4-4519-9721-791E43BF9A99}|testflights\\testflights.csproj|c:\\users\\nduyt\\source\\repos\\testflights\\testflights\\controllers\\flightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DF1EEA-EAC4-4519-9721-791E43BF9A99}|testflights\\testflights.csproj|solutionrelative:testflights\\controllers\\flightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DF1EEA-EAC4-4519-9721-791E43BF9A99}|testflights\\testflights.csproj|c:\\users\\nduyt\\source\\repos\\testflights\\testflights\\models\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DF1EEA-EAC4-4519-9721-791E43BF9A99}|testflights\\testflights.csproj|solutionrelative:testflights\\models\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FlightController.cs",
+              "DocumentMoniker": "C:\\Users\\nduyt\\source\\repos\\testflights\\testflights\\Controllers\\FlightController.cs",
+              "RelativeDocumentMoniker": "testflights\\Controllers\\FlightController.cs",
+              "ToolTip": "C:\\Users\\nduyt\\source\\repos\\testflights\\testflights\\Controllers\\FlightController.cs",
+              "RelativeToolTip": "testflights\\Controllers\\FlightController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T16:00:03.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Flight.cs",
+              "DocumentMoniker": "C:\\Users\\nduyt\\source\\repos\\testflights\\testflights\\Models\\Flight.cs",
+              "RelativeDocumentMoniker": "testflights\\Models\\Flight.cs",
+              "ToolTip": "C:\\Users\\nduyt\\source\\repos\\testflights\\testflights\\Models\\Flight.cs",
+              "RelativeToolTip": "testflights\\Models\\Flight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T15:56:36.489Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 2010,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
